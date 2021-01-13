@@ -407,7 +407,7 @@ h4{
     width: 100vw;
     height: 100vh;
     position: absolute;
-    bottom: 5em;
+    bottom: 0em;
 }
 
 .count-down p{
