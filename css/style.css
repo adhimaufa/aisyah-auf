@@ -60,7 +60,7 @@ img{
 #top{
     width: 100vw;
     height: 100vh;
-    background: url("/asset/image/cover2.jpg");
+    background: url("asset/image/cover2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;    
@@ -73,7 +73,7 @@ img{
     width: 100%;
     left: 0;
     bottom: 0;
-    background: url("/asset/image/front.png") 100% 100% no-repeat;
+    background: url("asset/image/front.png") 100% 100% no-repeat;
     background-size: contain;
 }
 
@@ -95,7 +95,7 @@ img{
     top: -100%;
     width: 100vw;
     height: 100vh;
-    background: url("/asset/image/cover2.jpg");
+    background: url("asset/image/cover2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -245,7 +245,7 @@ h4{
 .gambar1{
     width: 100vw;
     height: 80vh;
-    background: url("/asset/image/cover2.jpg");
+    background: url("asset/image/cover2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -392,7 +392,7 @@ h4{
 #counting{
     width: 100vw;
     height: 100vh;
-    background: url("/asset/image/cover2.jpg");
+    background: url("asset/image/cover2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;    
