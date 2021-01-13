@@ -5,6 +5,12 @@ function toggle(){
     popup.classList.toggle('active')
 }
 
+var playOn = document.getElementById('song');
+
+function playing(){
+  playOn.play();
+}
+
 // aos
 AOS.init();
 
